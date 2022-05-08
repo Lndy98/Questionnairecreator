@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819814009067",
+    "project_id": "questionnaire-creator-359fd",
+    "storage_bucket": "questionnaire-creator-359fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819814009067:android:3d3bbfc017f7d05bec96ae",
+        "android_client_info": {
+          "package_name": "com.example.questionnairecreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819814009067-js9sq377er0gejqe58ab98tgj5rnmnrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.questionnairecreator",
+            "certificate_hash": "1025b52874cc1f951cb245d381116985c722cf0d"
+          }
+        },
+        {
+          "client_id": "819814009067-mfmk59kbt00agvfb9bm9l5jeb4trlner.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UJaJcZcejZJwik3pcXaO2fbmsmRKZ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819814009067-mfmk59kbt00agvfb9bm9l5jeb4trlner.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

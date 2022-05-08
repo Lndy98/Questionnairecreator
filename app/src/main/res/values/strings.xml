@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Questionnaire creator</string>
+    <string name="userName">Felhasználónév</string>
+    <string name="password">Jeszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="cancel">Mégse</string>
+    <string name="passwordConfirm">Jelszó megerősítése</string>
+    <string name="emailAddress">Email cím</string>
+    <string name="creat">Létrehozás</string>
+    <string name="delete">Törlés</string>
+</resources>
